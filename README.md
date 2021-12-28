@@ -1,8 +1,8 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Oii!!! Gabriel Reis, desenvolvedor, designer e amante da tecnologia e educação!
 <div align="center">
   <a href="https://portfolio-navy-gamma.vercel.app/">
-  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=g-reissantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-reissantana&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=g-reissantana&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-reissantana&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Reis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
