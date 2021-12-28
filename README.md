@@ -1,8 +1,8 @@
 ## Oiii!!! Eu sou a Gabriel Reis desenvolvedor, designer e amante de tecnologia e educação!
-<div style="display: inline_block;" align="center">
+<div style="display: inline_block" align="center">
   <a target="_blank" href="https://portfolio-navy-gamma.vercel.app/">
   <img style="display: inline" height="180em" src="https://github-readme-stats.vercel.app/api?username=g-reissantana&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img rget="_blank" href="https://portfolio-navy-gamma.vercel.app/">
+  <img target="_blank" href="https://portfolio-navy-gamma.vercel.app/">
   <img style="display: inline" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-reissantana&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
