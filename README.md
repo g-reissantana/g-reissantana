@@ -12,7 +12,6 @@
   <img align="center" alt="Reis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Reis-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Reis-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Reis-FIREBASE" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Ffirebase-3628772&psig=AOvVaw0Br7jnnVqchGkXO6ibxIp3&ust=1649949204647000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPj8wPOpkfcCFQAAAAAdAAAAABAD">
   
   
   ##
