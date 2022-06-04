@@ -1,5 +1,5 @@
 ## Oii!!! Eu sou Gabriel Reis, desenvolvedor, designer e amante da tecnologia e educação!
-## CLIQUE AQUI E CONHEÇA MEUS PROJETOS!
+## CLIQUE ABAIXO E CONHEÇA MEUS PROJETOS!
 <div align="center">
   <a href="https://portfolio-navy-gamma.vercel.app/">
   <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=g-reissantana&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
