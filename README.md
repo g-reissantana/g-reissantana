@@ -1,4 +1,4 @@
-## Oii!!! Eu sou Gabriel Reis, desenvolvedor, designer e amante da tecnologia e educação!
+## Oii!!! Eu sou Gabriel Reis, desenvolvedor e amante da tecnologia e educação!
 ## CLIQUE ABAIXO E CONHEÇA MEUS PROJETOS!
 <div align="center">
   <a href="https://portfolio-navy-gamma.vercel.app/">
